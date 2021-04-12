@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitas19&label=Profile%20views&color=0e75b6&style=flat" alt="ankitas19" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankiittaaa__" target="blank"><img src="https://img.shields.io/twitter/follow/ankiittaaa__?logo=twitter&style=for-the-badge" alt="ankiittaaa__" /></a> </p>
 
-- 🔭 I’m currently working on **Group Chat Application**
+- 🔭 I’m currently working on **Improving my problem-solving skills**
 
 - 🌱 I’m currently learning **Data Structures**
 
-- 👯 I’m looking to collaborate on **Software Applications**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android and Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ankitasharma22/**
 
