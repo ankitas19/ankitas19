@@ -28,8 +28,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<pre align="center">
-<img width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>        
+<pre align="center">   <img width="30px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>        
 <img width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>    
 <img width="30px" src="https://img.icons8.com/color/48/000000/html-5.png"/>    
 <img width="30px" src="https://img.icons8.com/color/48/000000/css3.png"/>    
